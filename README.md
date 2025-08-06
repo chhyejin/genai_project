@@ -1,7 +1,7 @@
 # 신분증 정보 추출 프로젝트
 
-이 프로젝트는 FastAPI와 Qwen2-VL 모델을 사용하여 신분증 이미지에서 정보를 추출하는 웹 애플리케이션입니다.
-[피피티](https://www.canva.com/design/DAGoEyThJB8/xj6sFnmJitdmiLiRV2Q8NQ/edit?utm_content=DAGoEyThJB8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+이 프로젝트는 FastAPI와 Qwen2-VL 모델을 사용하여 신분증 이미지에서 정보를 추출하는 웹 애플리케이션입니다.<br>
+[피피티](https://www.canva.com/design/DAGoEyThJB8/xj6sFnmJitdmiLiRV2Q8NQ/edit?utm_content=DAGoEyThJB8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <br>
 [허깅페이스](https://huggingface.co/)
 
 ### 디렉토리 구조 확인
