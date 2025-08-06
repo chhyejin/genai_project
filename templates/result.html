@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>결과</title>
+</head>
+<body>
+    <h2>업로드한 이미지</h2>
+    <img src="{{ image_url }}" width="300" alt="Uploaded Image" /><br><br>
+
+    <h3>Qwen2-VL 텍스트 추출</h3>
+    <pre>{{ raw_text }}</pre>
+
+    <h3>Gemini 구조화 결과</h3>
+    <pre>{{ result_json }}</pre>
+
+    <a href="/">다시 시도하기</a>
+</body>
+</html>
