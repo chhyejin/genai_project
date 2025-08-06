@@ -1,0 +1,35 @@
+# 환경변수 파일 (민감한 정보 포함)
+.env
+
+# Python 캐시 파일들
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 업로드된 파일들
+static/uploads/*
+!static/uploads/.gitkeep
+
+# 가상환경
+venv/
+env/
+ENV/
+
+# IDE 설정 파일들
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 로그 파일들
+*.log
+
+# 운영체제 파일들
+.DS_Store
+Thumbs.db
+
+# 모델 캐시 (용량이 클 수 있음)
+models/
+*.bin
+*.safetensors

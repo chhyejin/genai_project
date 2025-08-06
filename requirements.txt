@@ -1,0 +1,10 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+jinja2==3.1.2
+pillow==10.1.0
+torch>=2.0.0
+transformers>=4.36.0
+langchain-google-genai==1.0.8
+pydantic==2.5.0
+python-dotenv==1.0.0
